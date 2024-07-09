@@ -1,8 +1,8 @@
 class Wayenv < Formula
   desc "CLI for managing environment variables"
   homepage "https://github.com/waylake/wayenv"
-  url "https://github.com/waylake/wayenv/releases/download/v1.0.2/wayenv-m1.zip"
-  sha256 "73cb6b2a4e9741a0580eecb031baf8cd3aa7d45c7b96655595c8ef1c99868abd"
+  url "https://github.com/waylake/wayenv/releases/download/v1.0.3/wayenv-m1.zip"
+  sha256 "8ce422316169df51aa663db20e8da661390516ff76212ddab73a9617d9245a84"
   license "MIT"
 
   def install
