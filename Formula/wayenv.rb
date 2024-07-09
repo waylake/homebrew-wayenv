@@ -5,8 +5,6 @@ class Wayenv < Formula
   sha256 "cbcf78e0dca69f5ee39b4ebc1907f47ae5d0a3a198c798b6786b41dacfeef608"
   license "MIT"
 
-  depends_on "bun"
-
   def install
     bin.install "wayenv"
   end
